@@ -1,0 +1,6 @@
+{
+  "name": "SafePath India",
+  "description": "AI-Based Safe Route Navigation & Risk Scoring System for vulnerable travelers across Indian cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

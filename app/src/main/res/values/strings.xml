@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SafePath India</string>
+    <string name="tagline">AI-Based Safe Route Navigation &amp; Risk Scoring</string>
+    <string name="disclaimer_safety">Scores are estimates based on available environmental indicators and do not guarantee personal safety.</string>
+</resources>
